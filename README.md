@@ -7,7 +7,7 @@
 
 Yanni is an inventory management and point-of-sale tool built for vintage clothing resellers who sell both in person (pop-ups, flea markets, Whatnot live shows) and online. It replaces messy spreadsheets, phone photo folders, and mental math with a photo-first inventory system that tracks cost of goods, powers a QR-scan checkout flow for in-person sales, and generates printable labels for physical inventory.
 
-I designed, built, and operate the product end to end — requirements, architecture, data model, integrations, testing, deployment, and iteration — using AI-assisted development workflows (Claude, ChatGPT, Cursor) with full ownership of every design decision. I also run a vintage business myself, so the product is built from direct operating experience.
+I designed, built, and operate the product end to end — requirements, architecture, data model, integrations, testing, deployment, and iteration — with full ownership of every design decision. I also run a vintage business myself, so the product is built from direct operating experience.
 
 ---
 

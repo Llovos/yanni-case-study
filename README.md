@@ -13,10 +13,13 @@ I designed, built, and operate the product end to end — requirements, architec
 
 ## Screenshots
 
-<!-- TODO: add screenshots to docs/screenshots/ and reference them here -->
-<!-- Suggested shots: item grid, QR checkout flow, event view w/ Whatnot export, P&L analytics -->
+**Live analytics** — revenue, profit, and sell-through computed from booth scans, with weekly sales and per-channel revenue breakdowns:
 
-*Screenshots coming soon.*
+![Analytics dashboard: revenue, profit margin, sell-through, sales over time, and revenue by channel](docs/screenshots/analytics.png)
+
+**Per-item tracking** — every sale generates its own receipt with cost in, price out, fees, days held, and net profit logged at the moment of sale:
+
+![Snap. Label. Sell. — per-item receipt showing cost, sale price, fees, days held, and net profit](docs/screenshots/how-it-works-track.png)
 
 ## Core Design Principles
 
